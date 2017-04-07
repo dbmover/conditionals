@@ -1,0 +1,13 @@
+{
+    "name": "dbmover/conditionals",
+    "description": "Dbmover plugin to hoist conditional statements",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
